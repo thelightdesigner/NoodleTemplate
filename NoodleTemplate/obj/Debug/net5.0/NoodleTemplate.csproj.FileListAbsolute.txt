@@ -1,0 +1,16 @@
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\NoodleTemplate.exe
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\NoodleTemplate.deps.json
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\NoodleTemplate.runtimeconfig.json
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\NoodleTemplate.runtimeconfig.dev.json
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\NoodleTemplate.dll
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\ref\NoodleTemplate.dll
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\bin\Debug\net5.0\NoodleTemplate.pdb
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.AssemblyInfoInputs.cache
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.AssemblyInfo.cs
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.csproj.CoreCompileInputs.cache
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.dll
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\ref\NoodleTemplate.dll
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.pdb
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.genruntimeconfig.cache
+C:\Users\kyle\source\repos\NoodleTemplate\NoodleTemplate\obj\Debug\net5.0\NoodleTemplate.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoodleTemplate", "NoodleTemplate\NoodleTemplate.csproj", "{2207CA6F-D9F7-4980-9181-C66D86AB1841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2207CA6F-D9F7-4980-9181-C66D86AB1841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2207CA6F-D9F7-4980-9181-C66D86AB1841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2207CA6F-D9F7-4980-9181-C66D86AB1841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2207CA6F-D9F7-4980-9181-C66D86AB1841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34A39FD-5C3A-4E6F-B09A-A77D4CA068A2}
+	EndGlobalSection
+EndGlobal
